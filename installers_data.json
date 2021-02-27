@@ -3,17 +3,17 @@
         {
             "opera_gx": {
                 "download-url": "https://download.opera.com/download/get/?id=52515&location=415&nothanks=yes&sub=marine&utm_tryagain=yes",
-                "installer-filename": "opera_gx.exe",
+                "installer-filename": "opera_gx_latest.exe",
                 "installer-arguments": "/silent /allusers=1 /setdefaultbrowser=0 /import-browser-data=0 /enable-stats=0 /launchbrowser=0"
             },
             "firefox": {
                 "download-url": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=pl",
-                "installer-filename": "firefox.exe",
+                "installer-filename": "firefox_latest.exe",
                 "installer-arguments": "/S"
             },
             "chrome": {
                 "download-url": "https://dl.google.com/update2/installers/ChromeSetup.exe",
-                "installer-filename": "chrome.exe",
+                "installer-filename": "chrome_latest.exe",
                 "installer-arguments": "/silent /install"
             }
         }
